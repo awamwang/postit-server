@@ -1648,8 +1648,8 @@ http-assert@^1.3.0:
     http-errors "~1.7.2"
 
 http-cache-semantics@^4.0.0:
-  version "4.1.0"
-  resolved "http://10.158.249.13:4873/http-cache-semantics/-/http-cache-semantics-4.1.0.tgz#49e91c5cbf36c9b94bcfcd71c23d5249ec74e390"
+  version "4.1.1"
+  resolved "https://registry.yarnpkg.com/http-cache-semantics/-/http-cache-semantics-4.1.1.tgz#abe02fcb2985460bf0323be664436ec3476a6d5a"
 
 http-errors@1.7.3, http-errors@^1.6.3, http-errors@~1.7.2:
   version "1.7.3"
